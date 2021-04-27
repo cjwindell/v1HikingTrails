@@ -1,0 +1,32 @@
+/* Style the links inside the list items */
+.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    margin-left: 100px;
+}
+
+/* Float the list items side by side */
+.topnav li {float: left;}
+
+#sanAndreas-nav {
+	margin-left: 10px;
+	font-family: 'Didact Gothic', sans-serif;
+	color: #8c8286;
+}
+
+#sawyerCamp-nav {
+	margin-left: 10px;
+	font-family: 'Didact Gothic', sans-serif;
+	color: #8c8286;
+}
+
+#sweeneyRidge-nav {
+	margin-left: 10px;
+	font-family: 'Didact Gothic', sans-serif;
+	color: #8c8286;
+}

@@ -1,1 +1,2 @@
-# v1HikingTrails
+# test
+This is a test site.
